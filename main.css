@@ -1,0 +1,27 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: red;
+}
+
+div {
+    display: inline-block
+    width: 50%;
+    background-color: green;
+    border: 2px solid white;
+}
+
+h1 {
+padding: 5em;
+font-size: 16px;
+}
+
+.main-menu li {
+    display: inline-block;
+    width: 15%;
+    
+}
